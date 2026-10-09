@@ -1,0 +1,28 @@
+body{
+    align-items: center;
+    align-content: center;
+}
+.dashboard{
+    margin-left: 25%;
+    border: solid, 1px;
+    background-color: rgb(135, 184, 226);
+    border-radius: 2%;
+    width: 50%;
+
+
+
+}
+
+
+
+.carte{
+    display: flex; 
+    border: 10px;
+}
+
+
+
+.carta{
+    border: solid, 1px;
+    border-radius: 7%;
+}
